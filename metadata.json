@@ -1,0 +1,6 @@
+{
+  "name": "SnapLearn",
+  "description": "Snap handwritten or printed notes to generate clean transcripts, structured summaries, flashcards, and practice exam questions with one-click study app exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
